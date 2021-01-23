@@ -2,3 +2,26 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+@import url("https://fonts.googleapis.com/css2?family=Potta+One&display=swap");
+
+.heading {
+  color: #2d3038;
+  font-family: "Potta One", cursive;
+}
+
+.genre {
+  font-family: "Potta One", cursive;
+}
+
+.bookname {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.logodiv {
+  opacity: 0.15;
+  margin: auto;
+  height: 20px;
+  width: 20px;
+}
